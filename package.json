@@ -1,0 +1,9 @@
+{
+  "name": "app-itis-di-maggio",
+  "private": true,
+  "workspaces": [],
+  "scripts": {
+    "start:mobile": "cd mobile-app && npm start",
+    "start:totem": "cd totem-device && node index.js"
+  }
+}
