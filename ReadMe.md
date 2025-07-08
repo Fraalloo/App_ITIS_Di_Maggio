@@ -1,6 +1,6 @@
 # App ITIS Di Maggio
 
-Design:
+Design: Figma
 
 
 Front-end:
