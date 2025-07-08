@@ -1,7 +1,5 @@
 # App ITIS Di Maggio
 
-prova
-
 Design:
 
 
